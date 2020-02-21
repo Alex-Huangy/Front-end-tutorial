@@ -2,4 +2,8 @@ This is my create txt file! text git fetch
 
 Add content by local!
 
+<<<<<<< HEAD
 today is very good!
+=======
+add content by web!
+>>>>>>> refs/remotes/origin/master
